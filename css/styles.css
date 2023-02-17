@@ -1,0 +1,206 @@
+.top {
+    background-color: #658864;
+    height: 800px;
+    width: auto;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.cat {
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    left: 30px;
+    position: relative;
+
+}
+
+
+.table {
+    position: relative;
+    left: 1300px;
+    top: 70px;
+
+}
+
+.work {
+    color: #EAE7B1;
+    font-family: federo;
+    font-size: 30px;
+
+}
+
+.about {
+    color: #EAE7B1;
+    font-family: federo;
+    font-size: 30px;
+
+
+}
+
+
+.mountain {
+    position: relative;
+    width: 600px;
+    top: 230px;
+    left:500px ;
+}
+
+
+.cloud1 {
+    position: relative;
+    left: 400px;
+    top: 500px;
+
+}
+
+.cloud2 {
+    position: relative;
+    left: 1300px;
+    bottom: 200px;
+
+}
+
+.esee {
+    position: relative;
+    left: 560px;
+    top: 250px;
+    color: #EAE7B1;
+}
+
+.full {
+    position: relative;
+    left: 810px;
+    top: 250px;
+    color: #EAE7B1;
+    font-family: federo;
+}
+
+
+
+/************************************/
+
+
+.middle {
+    background-color: #B7B78A;
+    height: 1000px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+
+}
+
+.cat1 {
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    border: solid;
+    padding: 0%;
+    top: 80px;
+    left: 850px;
+    position: relative;
+
+}
+
+.hello {
+    top: 80px;
+    left: 915px;
+    position: relative;
+    font-family: federo;
+
+}
+
+.paragraph {
+    top: 80px;
+    left: 870px;
+    position: relative;
+    font-family: federo;
+    font-size: large;
+}
+
+
+.can {
+    top: 150px;
+    left: 300px;
+    position: relative;
+    font-family: federo;
+    position: relative;
+
+}
+
+.send {
+    top: 170px;
+    left: 300px;
+    position: relative;
+    font-family: federo;
+    font-size: large;
+
+}
+
+
+.test {
+    top: 150px;
+    left: 1300px;
+    position: relative;
+    font-family: federo;
+    position: relative;
+
+}
+
+.test1 {
+    top: 170px;
+    left: 1300px;
+    position: relative;
+    font-family: federo;
+    font-size: large;
+
+
+}
+
+
+
+/************************************/
+.bottom {
+    background-color: #DDDDDD;
+    height:150px ;
+
+    padding-left: 10px;
+    padding-bottom: 10px;
+
+}
+
+
+.twitter {
+
+    top: 80px;
+    position: relative;
+    font-family: federo;
+    font-size: large;
+
+}
+
+
+.number{
+    position: relative;
+    font-family: federo;
+    font-size: large;
+    top: 80px;
+}
+
+
+/************************************/
+
+
+
+/************************************/
+.heading {
+    margin-top: 0;
+}
+
+/************************************/
+
+
+body {
+    margin: 0;
+}
+
+/************************************/
